@@ -1,10 +1,9 @@
-function menorNumero(numero1, numero2) {
-    if (numero1 <= numero2) {
-        return numero1;
-    } else {
-        return numero2;
+function tabelaDeMultiplicacao(numero) {
+    let i = 1;
+    while (i <= 10) {
+        console.log(numero + " * " + i + " = " + numero * i);
+        i++;
     }
-
 }
 
-console.log(menorNumero(10, 20));
+tabelaDeMultiplicacao(5);

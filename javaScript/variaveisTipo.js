@@ -39,6 +39,19 @@ console.log(nomeSemNada);
 let observadores = undefined;
 console.log(observadores);
 
+// criando um objeto literal, utiliza chave
 
+let moto = {
+    marca: "Honda",
+    ano: "2019",
+    modelo: "CB500"
+}
+console.log(moto);
+
+
+// Arrays utilizam couchetes
+
+let series = ["El Chapo", " The Game of Thrones"];
+console.log(series);
 
 
