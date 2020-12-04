@@ -5,7 +5,7 @@
 
 [1- Introdução javaScript](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/conteudo/introducao.md)
 
-[Variaveis]()
+[Variaveis](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/conteudo/variaveis.md)
 
 [Tipos de dados]()
 
