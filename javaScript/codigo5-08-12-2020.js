@@ -2,7 +2,7 @@
 
 // Escrever uma arrow function que vai receber um parametro
 
-// * imprimir no console qual o tipo do parametro voces estão recebendo
+// * imprimir no console qual o tipo do parametro estão recebendo
 
 // * realizar uma conversao
 
@@ -11,17 +11,18 @@
 // * retornar o parametro convertido
 
 const recebendoUmParametro = numero => {
-    console.log(typeof(numero));
-    const numeroConvertido = String(numero);
-    console.log(numeroConvertido);
-    return numeroConvertido;
+    console.log("tipo do dado = " + typeof(numero));
+    const numeroConvertido = String(numero);              // metodo String(); transforma numero p/ String
+    console.log("O numero convertido é " + numeroConvertido);
+    return "retornar o parametro convertido = " + numeroConvertido;
 }
 
 
+// execultando
+
+console.log(recebendoUmParametro(10));
 
 
 
 
 
-
-console.log(triplo(numero));
