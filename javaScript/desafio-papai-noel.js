@@ -84,5 +84,7 @@ function encontrarLojaComPrecoEmConta(lista) {
 const valorUnitarioDoPresente = encontrarLojaComPrecoEmConta(lista);
 console.log(calculaValorTotal(valorUnitarioDoPresente, 100, lista));
 
+// [{"totalGasto":2500,"custoPresente":25,"qtdCriancaComportada":100,"loja":"MAGAZINE LIMA"}]
+
 
 
