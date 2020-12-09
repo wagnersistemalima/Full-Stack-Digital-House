@@ -49,6 +49,8 @@
 
 [Aula 08-12-2020 exercicio Callback](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/codigo6-08-12-2020.js)
 
+[Desafio Papai Noel](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/desafio-papai-noel.js)
+
 
 
 
