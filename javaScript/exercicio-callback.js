@@ -39,7 +39,7 @@ function dividir(numeroA, numeroB) {
     return numeroA / numeroB;
 }
 
-// callback
+// função callback
 
 function calculadora(numeroA, numeroB, operacao) {
     return operacao(numeroA, numeroB);
