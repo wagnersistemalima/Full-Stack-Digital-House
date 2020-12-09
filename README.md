@@ -23,6 +23,14 @@
 
 [Spread Operator]()
 
+[Strings e seus metodos](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/strings.js)
+
+[Arrow function](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/arrow-functions.js)
+
+[Aula 08-12-2020 ]()
+
+[Aula 08-12-2020 exercicio Arrow function](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/codigo5-08-12-2020.js)
+
 [Aula 08-12-2020 Callbacks](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/callback.js)
 
 [Aula 08-12-2020 exercicio Callback](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/codigo6-08-12-2020.js)
