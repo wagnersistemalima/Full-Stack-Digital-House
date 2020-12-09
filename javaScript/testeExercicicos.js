@@ -1,6 +1,17 @@
-let conversao = String(true);
+// Definindo quatro funçoes
 
-console.log(typeof(conversao))
+function adicionarHttp(url) {
+    return "http://" + url;
+}
 
-console.log(conversao);
+function processar(listaDeSitesWeb, operacao) {
+    let listaAuxiliar = [];
+    for(url of listaDeSitesWeb) {
+        listaAuxiliar.push(operacao(url));
+    }
+    return listaAuxiliar;
+}
 
+
+
+console.log(processar(["www.google.com","www.yahoo.com"], adicionarHttp));
