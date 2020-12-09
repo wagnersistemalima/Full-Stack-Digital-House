@@ -7,27 +7,39 @@
 
 [Variaveis](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/conteudo/variaveis.md)
 
-[Tipos de dados]()
+[Tipos de dados](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/dados.js)
 
-[Operadores]()
+[Operadores](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/operadores.js)
 
-[Revisão de funçoes]()
+[Funçoes- function](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/funcao.js)
 
-[Condicional o if]()
+[Condicional o if](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/validacoes-if.js)
 
-[Condicional o if ternario e o switch case]()
+[Condicional o if ternario e o switch case](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/validacoes-if-ternario-switch.js)
 
-[Ciclos for]()
+[Ciclos for-of](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/for-of.js)
 
-[Ciclos while e do while]()
+[Ciclos for-in](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/for-in.js)
 
-[Spread Operator]()
+[Ciclos do-while](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/loop-do-while.js)
+
+[Ciclos while](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/loop-while.js)
+
+[Spread Operator](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/spread.js)
 
 [Strings e seus metodos](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/strings.js)
 
 [Arrow function](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/arrow-functions.js)
 
-[Aula 08-12-2020 ]()
+[JASON](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/jason.js)
+
+[Aula 08-12-2020 JSON](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/codigo1-08-12-2020.js)
+
+[Aula 08-12-2020 metodos de String](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/codigo2-08-12-2020.js)
+
+[Aula 08-12-2020 exercicio criar um objeto](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/codigo3-08-12-2020.js)
+
+[Aula 08-12-2020 typeof, parseInt, parseFloat, Number, String, toString](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/codigo4-08-12-2020.js)
 
 [Aula 08-12-2020 exercicio Arrow function](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/codigo5-08-12-2020.js)
 
