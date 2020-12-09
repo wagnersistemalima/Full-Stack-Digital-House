@@ -6,6 +6,8 @@ let dia = "quinta";
 
 let resultado = dia == "domingo" ? "Vou a praia!" : "Fico em casa!";
 
+console.log(resultado);
+
 // estrutura Switch - case
 
 switch (dia) {
