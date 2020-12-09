@@ -23,4 +23,10 @@
 
 [Spread Operator]()
 
+[Aula 08-12-2020 Callbacks](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/callback.js)
+
+[Aula 08-12-2020 exercicio Callback](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/codigo6-08-12-2020.js)
+
+
+
 
