@@ -11,8 +11,6 @@
 
 [Operadores](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/operadores.js)
 
-[Funçoes- function](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/funcao.js)
-
 [Condicional o if](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/validacoes-if.js)
 
 [Condicional o if ternario e o switch case](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/validacoes-if-ternario-switch.js)
@@ -28,6 +26,8 @@
 [Spread Operator](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/spread.js)
 
 [Strings e seus metodos](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/strings.js)
+
+[Funçoes- function](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/funcao.js)
 
 [Arrow function](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/arrow-functions.js)
 
