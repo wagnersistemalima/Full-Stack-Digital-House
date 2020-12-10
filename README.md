@@ -55,6 +55,16 @@
 
 [Desafio Papai Noel](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/desafio-papai-noel.js)
 
+[Arrays](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/array.js)
+
+[Metodos de array 1](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/array2.js)
+
+[Metodos de array 2](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/arrays-metodo2.js)
+
+[Objetos Date parte 1](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/date.js)
+
+[Objetos Date parte 2](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/date2.js)
+
 
 
 
