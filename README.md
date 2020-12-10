@@ -23,7 +23,9 @@
 
 [Ciclos while](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/loop-while.js)
 
-[Callback](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/exercicio-callback.js)
+[Callback-function](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/callback-function.js)
+
+[Callback-arrow-function](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/exercicio-callback.js)
 
 [Spread Operator](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/spread.js)
 
