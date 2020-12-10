@@ -1,5 +1,7 @@
 // Criando um Objeto date
 
+// Cria uma instância JavaScript de Date que representa um único momento no tempo. Objetos Date são baseados no valor de tempo que é o número de milisegundos desde 1º de Janeiro de 1970 (UTC).
+
 const date = new Date();
 
 console.log(date);                    // retorna a data e a hora atual no formato utc, com 3 horas a menos

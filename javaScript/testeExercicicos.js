@@ -1,17 +1,12 @@
-// Definindo quatro funçoes
-
-function adicionarHttp(url) {
-    return "http://" + url;
-}
-
-function processar(listaDeSitesWeb, operacao) {
-    let listaAuxiliar = [];
-    for(url of listaDeSitesWeb) {
-        listaAuxiliar.push(operacao(url));
-    }
-    return listaAuxiliar;
-}
 
 
+let destinosIncriveis = ['Marruecos', 'Bariloche', 'Barcelona', 'China', 'Grecia']
 
-console.log(processar(["www.google.com","www.yahoo.com"], adicionarHttp));
+let[ ,bariloche, , china, ] = destinosIncriveis;
+
+console.log(bariloche);
+console.log(china);
+
+
+// Bariloche
+// China
