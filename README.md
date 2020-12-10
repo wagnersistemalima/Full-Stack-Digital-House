@@ -27,6 +27,8 @@
 
 [Callback-arrow-function](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/exercicio-callback.js)
 
+[Closures](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/closures.js)
+
 [Spread Operator](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/spread.js)
 
 [Strings e seus metodos](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/strings.js)
