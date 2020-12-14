@@ -65,6 +65,12 @@
 
 [Objetos Date parte 2](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/date2.js)
 
+[Aula 10-12-2020 exercicio 1](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/codigo1-10-12-2020.js)
+
+[Aula 10-12-2020 exercicio 2](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/codigo2-10-12-2020.js)
+
+
+
 
 
 
