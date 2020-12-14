@@ -5,9 +5,7 @@
 
 let numeros = [2, 4, 6];
 
-let dobroDeNumeros = numeros.map(function(_cadaNumero) {
-    return _cadaNumero * 2;
-})
+let dobroDeNumeros = numeros.map((_cadaNumero) => _cadaNumero * 2);
 
 console.log(dobroDeNumeros);
 
@@ -15,9 +13,7 @@ console.log(dobroDeNumeros);
 
 let idades = [15, 39, 18, 23, 10];
 
-let maiores = idades.filter(function(_idade) {
-    return _idade >= 18;
-})
+let maiores = idades.filter((_maiorIdade) => _maiorIdade >= 18);
 
 console.log(maiores);
 
@@ -25,16 +21,23 @@ console.log(maiores);
 
 let valores = [5, 7, 16];
 
-let resultado = valores.reduce(function(_acumulador, _numero) {
-    return _acumulador + _numero;
-})
+let resultado = valores.reduce((_acumulador, _numero) => {
+    _acumulador + _numero
+});
 
 console.log(resultado);
+
+// find(); retorna o valor do primeiro elemento do array que satisfizer a função de teste provida. Caso contrario, undefined é retornado.
+
+let animais = ["cachorro", "gato", "cavalo"];
+
+const animalAchado = animais.find((animal) => animal === "cavalo");
+console.log(animalAchado);
 
 // forEach() permite executar uma função em cada elemento.
 
 let paises = ["Brasil", "Colombia", "Argentina"];
 
-paises.forEach(function(_pais, _indice) {
-    console.log(_pais + ", e seu indice no array é " + _indice);
-})
+paises.forEach((_pais, _indice) => {
+    console.log(_pais + ", e seu indice no array é " + _indice)
+});

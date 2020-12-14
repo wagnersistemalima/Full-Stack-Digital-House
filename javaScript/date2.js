@@ -1,6 +1,6 @@
 // Criando um objeto Date com uma data especifica, passando os parametros. mascara yyyy - MM - dd
 
-let date = new Date("2019-12-25");
+let date = new Date("2019-11-07");
 
 console.log(date);
 
