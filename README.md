@@ -11,6 +11,10 @@
 
 [Operadores](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/operadores.js)
 
+[Aula 03-12-2020 exercicio 1](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/codico1-03-12-2020.js)
+
+[Aula 03-12-2020 exercicio 2](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/codigo2-03-12-2020.js)
+
 [Condicional o if](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/validacoes-if.js)
 
 [Condicional o if ternario e o switch case](https://github.com/wagnersistemalima/Full-Stack-Digital-House/blob/master/javaScript/validacoes-if-ternario-switch.js)
